@@ -1,5 +1,4 @@
 # imageResizer
-# imageResizer
 Image resizer and extension changer using Python
 ## Team members
 1. <a href="https://github.com/HEmanTHAK7">Hemanth A K<a>
