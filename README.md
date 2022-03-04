@@ -3,7 +3,7 @@
 Image resizer and extension changer using Python
 ## Team members
 1. <a href="https://github.com/HEmanTHAK7">Hemanth A K<a>
-2. <a href="">Aswan M<a>
+2. <a href="https://github.com/Peacefull1">Aswan M<a>
 ## Team Id
 Python / 109
 ## Link to product walkthrough
