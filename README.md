@@ -4,7 +4,7 @@ Image resizer and extension changer using Python
 1. <a href="https://github.com/HEmanTHAK7">Hemanth A K<a>
 2. <a href="https://github.com/Peacefull1">Aswan M<a>
 ## Team Id
-Python / 109
+Python / 43
 ## Link to product walkthrough
   <a href="https://www.loom.com/share/c380869cead340f9afb14f3fafc70fda">Link to Video</a>
 ## Libraries used
